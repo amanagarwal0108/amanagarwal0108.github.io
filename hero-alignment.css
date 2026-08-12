@@ -1,0 +1,2 @@
+/* Keep the identity and opening statement centred; the portfolio body stays left aligned. */
+.site-header{justify-content:space-between;gap:0}.site-header nav{margin-left:0}.hero{align-items:center;padding-left:24px;padding-right:24px;text-align:center}.hero>p{max-width:600px}.hero-actions{justify-content:center}@media(max-width:650px){.site-header{justify-content:space-between}.hero{align-items:center;padding-left:20px;padding-right:20px;text-align:center}.hero-actions{justify-content:center}}
